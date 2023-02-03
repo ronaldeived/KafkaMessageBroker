@@ -1,0 +1,9 @@
+{
+	"namespace": "devio",
+	"type": "record",
+	"name": "Course",
+	"fields": [
+		{ "name": "Id", "type": "string" },
+		{ "name": "Description", "type": "string" }
+	]
+}
